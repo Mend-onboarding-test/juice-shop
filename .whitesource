@@ -1,0 +1,17 @@
+{
+  "settingsInheritedFrom": "Mend-onboarding-test/whitesource-config@main",
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "none",
+    "displayMode": "diff",
+    "useMendCheckNames": true
+  },
+  "issueSettings": {
+    "minSeverityLevel": "NONE",
+    "issueType": "DEPENDENCY"
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": fale
+    }
+  }
+}
